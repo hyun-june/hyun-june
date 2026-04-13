@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
-![현준's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun-june)](https://github.com/hyun-june/github-readme-stats)
+![현준's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun-june)
 
 <!-- <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-june&exclude_repo=profile.github.io&layout=compact&theme=tokyonight" />
