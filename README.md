@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 ![GitHub stats](https://github-readme-stats-eta-gray-11.vercel.app/api?username=hyun-june&show_icons=true&count_private=true&cache_seconds=3600)
-![Top Langs](https://github-readme-stats-eta-gray-11.vercel.app/api/top-langs/?username=KimSuro5773&layout=compact&cache_seconds=3600)
+![Top Langs](https://github-readme-stats-eta-gray-11.vercel.app/api/top-langs/?username=hyun-june&layout=compact&cache_seconds=3600)
 
 <!-- <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun-june&exclude_repo=profile.github.io&layout=compact&theme=tokyonight" />
